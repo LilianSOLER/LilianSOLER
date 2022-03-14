@@ -12,7 +12,9 @@
 - ⚡ Fun fact: I love sport and i take shower everyday
 - 
 ### Connect with me:
-[Email](mailto:lilian.soler@didelo.fr)
+[![website](./img/)](mailto:lilian.soler@didelo.fr)
+
+
 [![website](./img/globe-dark.svg)](https://didelo.fr)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC32rqsmCHUJ3D-k_2-d-wLQ#gh-light-mode-only)
