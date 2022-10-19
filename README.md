@@ -9,7 +9,6 @@
 - 🔭 Check out my Mathematics course: [Become better][course]!
 - 🌱 I’m currently learning everything
 - 🥅 2022 Goals: code more regularly
-- ⚡ Fun fact: I love sport and i take shower everyday
 ### Connect with me:
 [Email](mailto:lilian.soler@didelo.fr)
 
