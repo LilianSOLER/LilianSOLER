@@ -6,7 +6,6 @@
 
 ## I'm a Student, Developer, and Teacher!!
 
-- 🔭 Check out my Mathematics course: [Become better][course]!
 - 🌱 I’m currently learning everything
 - 🥅 2022 Goals: code more regularly
 ### Connect with me:
