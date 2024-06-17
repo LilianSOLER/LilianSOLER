@@ -7,7 +7,6 @@
 ## I'm a Student, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: code more regularly
 ### Connect with me:
 [Email](mailto:lilian.soler@didelo.fr)
 
